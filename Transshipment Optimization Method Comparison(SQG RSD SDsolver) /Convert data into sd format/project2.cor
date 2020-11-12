@@ -1,0 +1,280 @@
+NAME          project2
+ROWS
+ N  obj
+ E  s1
+ E  s2
+ E  s3
+ E  s4
+ E  s5
+ E  s6
+ E  s7
+ E  d1
+ E  d2
+ E  d3
+ E  d4
+ E  d5
+ E  d6
+ E  d7
+ E  ss1
+ E  ss2
+ E  ss3
+ E  ss4
+ E  ss5
+ E  ss6
+ E  ss7
+COLUMNS
+    e1        obj                            1
+    e1        s1                             1
+    e1        ss1                            1
+    e2        obj                            1
+    e2        s2                             1
+    e2        ss2                            1
+    e3        obj                            1
+    e3        s3                             1
+    e3        ss3                            1
+    e4        obj                            1
+    e4        s4                             1
+    e4        ss4                            1
+    e5        obj                            1
+    e5        s5                             1
+    e5        ss5                            1
+    e6        obj                            1
+    e6        s6                             1
+    e6        ss6                            1
+    e7        obj                            1
+    e7        s7                             1
+    e7        ss7                            1
+    t12		  obj							 1
+    t12	      s1    						 1
+    t12		  d2  							 1
+    t13		  obj							 1
+    t13	      s1    						 1
+    t13		  d3  							 1
+    t14		  obj							 1
+    t14	      s1    						 1
+    t14		  d4  							 1
+    t15		  obj							 1
+    t15	      s1    						 1
+    t15		  d5  							 1
+    t16		  obj							 1
+    t16	      s1    						 1
+    t16		  d6  							 1
+    t17		  obj							 1
+    t17	      s1    						 1
+    t17		  d7  							 1
+    t21		  obj							 1
+    t21	      s2    						 1
+    t21		  d1  							 1
+    t23		  obj							 1
+    t23	      s2    						 1
+    t23		  d3  							 1
+    t24		  obj							 1
+    t24	      s2    						 1
+    t24		  d4  							 1
+    t25		  obj							 1
+    t25	      s2    						 1
+    t25		  d5  							 1
+    t26		  obj							 1
+    t26	      s2    						 1
+    t26		  d6  							 1
+    t27		  obj							 1
+    t27	      s2    						 1
+    t27		  d7  							 1
+    t31		  obj							 1
+    t31	      s3    						 1
+    t31		  d1  							 1
+    t32		  obj							 1
+    t32	      s3    						 1
+    t32		  d2  							 1
+    t34		  obj							 1
+    t34	      s3    						 1
+    t34		  d4  							 1
+    t35		  obj							 1
+    t35	      s3    						 1
+    t35		  d5  							 1
+    t36		  obj							 1
+    t36	      s3    						 1
+    t36		  d6  							 1
+    t37		  obj							 1
+    t37	      s3    						 1
+    t37		  d7  							 1
+    t41		  obj							 1
+    t41	      s4    						 1
+    t41		  d1  							 1
+    t42		  obj							 1
+    t42	      s4    						 1
+    t42		  d2  							 1
+    t43		  obj							 1
+    t43	      s4    						 1
+    t43		  d3  							 1
+    t45		  obj							 1
+    t45	      s4    						 1
+    t45		  d5  							 1
+    t46		  obj							 1
+    t46	      s4    						 1
+    t46		  d6  							 1
+    t47		  obj							 1
+    t47	      s4    						 1
+    t47		  d7  							 1
+    t51		  obj							 1
+    t51	      s5    						 1
+    t51		  d1  							 1
+    t52		  obj							 1
+    t52	      s5    						 1
+    t52		  d2  							 1
+    t53		  obj							 1
+    t53	      s5    						 1
+    t53		  d3  							 1
+    t54		  obj							 1
+    t54	      s5    						 1
+    t54		  d4  							 1
+    t56		  obj							 1
+    t56	      s5    						 1
+    t56		  d6  							 1
+    t57		  obj							 1
+    t57	      s5    						 1
+    t57		  d7  							 1
+    t61		  obj							 1
+    t61	      s6    						 1
+    t61		  d1  							 1
+    t62		  obj							 1
+    t62	      s6    						 1
+    t62		  d2  							 1
+    t63		  obj							 1
+    t63	      s6    						 1
+    t63		  d3  							 1
+    t64		  obj							 1
+    t64	      s6    						 1
+    t64		  d4  							 1
+    t65		  obj							 1
+    t65	      s6    						 1
+    t65		  d5  							 1
+    t67		  obj							 1
+    t67	      s6    						 1
+    t67		  d7  							 1   
+    t71		  obj							 1
+    t71	      s7    						 1
+    t71		  d1  							 1
+    t72		  obj							 1
+    t72	      s7    						 1
+    t72		  d2  							 1
+    t73		  obj							 1
+    t73	      s7    						 1
+    t73		  d3  							 1
+    t74		  obj							 1
+    t74	      s7    						 1
+    t74		  d4  							 1
+    t75		  obj							 1
+    t75	      s7    						 1
+    t75		  d5  							 1
+    t76		  obj							 1
+    t76	      s7    						 1
+    t76		  d6  							 1
+    r1		  obj							 1
+    r1	      d1    						 1
+    r2		  obj							 1
+    r2	      d2    						 1
+    r3		  obj							 1
+    r3	      d3    						 1
+    r4		  obj							 1
+    r4	      d4    						 1
+    r5		  obj							 1
+    r5	      d5    						 1
+    r6		  obj							 1
+    r6	      d6    						 1
+    r7		  obj							 1
+    r7	      d7    						 1
+    f1		  s1							 1
+    f1	      d1    						 1
+    f2		  s2							 1
+    f2	      d2    						 1
+    f3		  s3							 1
+    f3	      d3    						 1
+    f4		  s4							 1
+    f4	      d4    						 1
+    f5		  s5							 1
+    f5	      d5    						 1
+    f6		  s6							 1
+    f6	      d6    						 1
+    f7		  s7							 1
+    f7	      d7    						 1
+    q1		  ss1							 1
+    q2		  ss2							 1
+    q3		  ss3							 1
+    q4		  ss4							 1
+    q5		  ss5							 1
+    q6		  ss6							 1
+    q7		  ss7							 1
+RHS
+ 	rhs  	  s1  							 100
+ 	rhs  	  s2  							 100
+ 	rhs  	  s3  							 100
+ 	rhs  	  s4  							 100
+ 	rhs  	  s5  							 100
+ 	rhs  	  s6  							 100
+ 	rhs  	  s7  							 100
+    rhs       d1                             234
+    rhs       d2                             267
+    rhs       d3                             99
+    rhs       d4                             294
+    rhs       d5                             241
+    rhs       d6                             293
+    rhs       d7                             201
+ 	rhs  	  ss1  							 100
+ 	rhs  	  ss2  							 100
+ 	rhs  	  ss3  							 100
+ 	rhs  	  ss4  							 100
+ 	rhs  	  ss5  							 100
+ 	rhs  	  ss6  							 100
+ 	rhs  	  ss7  							 100
+BOUNDS
+ LO BND       e1           0
+ LO BND       e2           0
+ LO BND       e3           0
+ LO BND       e4           0
+ LO BND       e5           0
+ LO BND       e6           0
+ LO BND       e7           0
+ LO BND       t12          0
+ LO BND       t13          0
+ LO BND       t14          0
+ LO BND       t15          0
+ LO BND       t16          0
+ LO BND       t17          0
+ LO BND       t21          0
+ LO BND       t23          0
+ LO BND       t24          0
+ LO BND       t25          0
+ LO BND       t26          0
+ LO BND       t27          0
+ LO BND       t31          0
+ LO BND       t32          0
+ LO BND       t34          0
+ LO BND       t35          0
+ LO BND       t36          0
+ LO BND       t37          0
+ LO BND       t41          0
+ LO BND       t42          0
+ LO BND       t43          0
+ LO BND       t45          0
+ LO BND       t46          0
+ LO BND       t47          0
+ LO BND       t51          0
+ LO BND       t52          0
+ LO BND       t53          0
+ LO BND       t54          0
+ LO BND       t56          0
+ LO BND       t57          0
+ LO BND       t61          0
+ LO BND       t62          0
+ LO BND       t63          0
+ LO BND       t64          0
+ LO BND       t65          0
+ LO BND       t67          0
+ LO BND       t71          0
+ LO BND       t72          0
+ LO BND       t73          0
+ LO BND       t74          0
+ LO BND       t75          0
+ LO BND       t76          0
+ENDATA
