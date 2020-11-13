@@ -1,0 +1,37 @@
+body{
+	background-color: #F3F0E6;
+	font-family: sans-serif;
+}
+
+textarea
+{
+	background: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: thick ridge #ECDCEA;
+    height: 70%;
+    color: #5D5A50;
+    font-size: 16px;
+}
+.input_box input[type="submit"]
+{
+	top: 1000px;
+    border: none;
+    outline: none;
+    width: 100px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 2px;
+    right:20px;
+    bottom: 10px;
+}
+
+.input_box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #1c8adb;
+    color: #000;
+}

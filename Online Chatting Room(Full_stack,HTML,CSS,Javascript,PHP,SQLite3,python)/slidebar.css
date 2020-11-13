@@ -1,0 +1,22 @@
+body{
+	background-color: #F3F0E6;
+	font-family: sans-serif;
+}
+
+.input_box input[type="submit"]
+{
+    border: none;
+    outline: none;
+    width: 100px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 2px;
+}
+
+.input_box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #1c8adb;
+    color: #000;
+}
